@@ -5,3 +5,5 @@ Lo aprendido en el curso de GIT / GitHub en Itgrarte 2025:
 - Clonar repositorios
 - Pushear repositorios
 - Transformar archivos en Pages
+
+- En este repositorio vamos a convertir a README.md en Page de GitHub
